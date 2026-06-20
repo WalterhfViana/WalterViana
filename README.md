@@ -18,8 +18,11 @@
 - 📫 Como me encontrar: walterhfviana@gmail.com | [LinkedIn](https://www.linkedin.com/in/walter-h-viana-123233418/)
 
 ---
+
 </div>
+
 ---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
@@ -39,8 +42,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
 </div>
+
 ---
+
+
 ### 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-h-viana-123233418/)
