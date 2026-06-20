@@ -19,9 +19,6 @@
 
 ---
 
-</div>
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -41,12 +38,9 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 </div>
 
 ---
-
 
 ### 📫 Vamos nos conectar!
 
