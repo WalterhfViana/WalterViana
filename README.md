@@ -15,7 +15,7 @@
 - 🔐 Interesse em **Segurança da Informação** (cybersecurity)
 - 🌱 Atualmente aprofundando conhecimentos em IA aplicada e práticas de segurança ofensiva/defensiva
 - 💬 Pergunte-me sobre Python, IA ou segurança
-- 📫 Como me encontrar: SEU_EMAIL_AQUI | [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN)
+- 📫 Como me encontrar: walterhfviana@gmail.com | [LinkedIn](https://www.linkedin.com/in/walter-h-viana-123233418/)
 
 ---
 </div>
